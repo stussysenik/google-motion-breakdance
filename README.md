@@ -1,6 +1,19 @@
+<div align="center">
+
 # Google Motion Breakdance
 
-- [] training footage training
-- [] trainnig data
-- [] static new move creation using a monolithic low-fi paper-like architecture
+breaking training dev using Google's multi-modal dev API
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
+
+</div>
+
+---
+
+## Quick Start
+
+```bash
+git clone https://github.com/stussysenik/google-motion-breakdance.git
+cd google-motion-breakdance
+```
